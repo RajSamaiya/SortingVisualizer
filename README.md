@@ -15,6 +15,15 @@
  - **Objective:** How sorting algorithms work in practice.
  - **Technologies:** HTML, CSS, JavaScript, React.js for the front-end part and sorting algorithms for the logical part.
  - **Learning Outcomes:** Deeper knowledge of sorting algorithms and technologies used.
+
+**Screenshot:**
+
+<img width="960" alt="FrontPage" src="https://github.com/RajSamaiya/SortingVisualizer/assets/74708281/6d130c45-ff38-435b-a778-fd82a4ac25af">
+
+**GIF Demo:**
+
+![chrome-capture-2023-7-13](https://github.com/RajSamaiya/SortingVisualizer/assets/74708281/be5cb085-3982-488d-afa5-4f64b15a8052)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
